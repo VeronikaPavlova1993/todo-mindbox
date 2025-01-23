@@ -1,0 +1,11 @@
+.header{
+    background-color: rgba(205, 216, 226, 0.776);
+}
+
+.content_header{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: rgb(166, 149, 149);
+}
